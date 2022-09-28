@@ -1,0 +1,31 @@
+body {
+    background-color: #E0C9A6;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    list-style-type: none;
+    display: inline;
+}
+
+svg {
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+
+.complete {
+    text-decoration: line-through;
+}
